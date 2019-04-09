@@ -2,12 +2,12 @@ Welcome to the rodeo, your job this semester is just to stay on the bucking bron
 
 
 # Class Notes:
-1. There are no labs(i.e. they are not manditory).
-2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
+1. There are no labs(i.e. they are not mandatory).
+2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actual participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
 4. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
 5. This class starts slow then builds in speed.  
-6. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
+6. You are strongly encouraged to collaborate on homework, but please make note of it on your submission.  
 7. __Office hours are the primary opportunity for Homework Discussion__
 8. Homework 1-4 is reasonable effort.
 9. Homework 5-7 are very hard.
@@ -23,13 +23,13 @@ Iceing:  _Live sessions_
 Slack will be the central space you turn to make sense of the harder parts of this class.  It is the fastest way to connect with me and get support from your other students.  
 
 # Exam
-21 question  
+21 questions  
 60 min 
 all open answer  
-password give out in class 7 and you have 1 week to take the exam 
+password given out in class 7 and you have 1 week to take the exam 
 
 # Class Structure
-Class 1: Orintation  
+Class 1: Orientation  
 Class 2: Lab(group work)  
 Class 3: Machine Learning on Iris  
 Class 4: Review homework 1-3  
@@ -54,12 +54,12 @@ Class 10: Present final projects
 ### What role you will need to take
   - patient, diligent, self starting
   - learn a new communication style
-  - learn a new way of signaling you involvment in a community
+  - learn a new way of signaling you involvement in a community
 
 ### Different roles 
-- Async and Book are most important for homworks and quizs
+- Async and Book are most important for homeworks and quizzes
 - Live sesions are most valuable for final presentation 
-- Directly after live session is best time for going over homework/remidial help
+- Directly after live session is best time for going over homework/remedial help
 - Office hours provide over flow for that time
 - Slack provides opportunity for collaboration between students
 
@@ -82,7 +82,7 @@ We will use:  install_from_swirl("R Programming")
 We will complete the first 15 assignments over the first 4 weeks.    
 
 
-If you are a SE(sofware engineer) and the above was too simple,  the link below explians how R works under the hood. 
+If you are a SE(sofware engineer) and the above was too simple,  the link below explains how R works under the hood. 
 https://adv-r.hadley.nz/index.html
 
 Learning RMarkDown
